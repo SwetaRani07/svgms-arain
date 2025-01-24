@@ -1,5 +1,15 @@
 {
-  "rewrites": [
-    { "source": "/:path", "destination": "/:path.html" }
-  ]
-}
+    "rewrites": [
+      { "source": "/school/about", "destination": "/school/about.html" },
+      { "source": "/school/key-features", "destination": "/school/key-features.html" },
+      { "source": "/school/principal-message", "destination": "/school/principal-message.html" },
+      { "source": "/school/school-infrastructure", "destination": "/school/school-infrastructure.html" },
+      { "source": "/school/sexual-harassment-committee", "destination": "/school/sexual-harassment-committee.html" },
+      { "source": "/school/transport-facilities", "destination": "/school/transport-facilities.html" },
+      { "source": "/school/art-and-crafts", "destination": "/school/art-and-crafts.html" },
+      { "source": "/school/computer-lab", "destination": "/school/computer-lab.html" },
+      { "source": "/school/games-and-sports", "destination": "/school/games-and-sports.html" },
+      { "source": "/school/library", "destination": "/school/library.html" },
+      { "source": "/school/yoga-and-meditation", "destination": "/school/yoga-and-meditation.html" }
+      ]
+  }
